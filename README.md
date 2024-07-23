@@ -10,10 +10,10 @@
 ## About Me
 
 - I am a BTech Sophomore at IIT Jodhpur
-- **GitHub** [DarkPhoenix616](https://github.com/DarkPhoenix616)
+- **GitHub:** [DarkPhoenix616](https://github.com/DarkPhoenix616)
 - **Current Role:** RAID Project Member : CHAD (Code Heuristic Assessment and Debugging)
 - **Interests:** Computer Science, Machine Learning, Deep Learning, Web Development
-- 📫 How to reach me: <a href="mailto:b23ci1012@iitj.ac.in">b22ci1012@iitj.ac.in</a> <a href=""></a>
+- 📫 How to reach me: <a href="mailto:b23ci1012@iitj.ac.in">b23ci1012@iitj.ac.in</a> <a href=""></a>
 
 
 ## GitHub Statistics
