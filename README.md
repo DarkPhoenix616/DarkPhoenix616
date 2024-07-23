@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m a passionate Machine Learning and Developmen
 - **Current Role:** RAID Project Member : CHAD (Code Heuristic Assessment and Debugging)
 - **Interests:** Computer Science, Machine Learning, Deep Learning, Web Development
 
-![GIT STATS](https://github-readme-stats.vercel.app/api?username=DarkPhenix616&show=reviews,prs&theme=radical)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkPhoenix616)
+![GIT STATS](https://github-readme-stats.vercel.app/api?username=DarkPhoenix616&show=reviews,prs&theme=radical)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkPhoenix616)
 
 ## Projects
 
