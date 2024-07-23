@@ -34,17 +34,16 @@ A project to build an AI-powered automated code review tool. It leverages machin
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="44" style="vertical-align:top; margin:4px"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="44" style="vertical-align:top; margin:4px"></a>
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" style="vertical-align:top; margin:4px"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwindcss/tailwindcss.png" alt="Tailwind CSS" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://tailwindcss.com/"><img src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwindcss/tailwindcss.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s)" alt="Tailwind CSS" height="40" style="vertical-align:top; margin:4px"></a>
   <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" height="40" style="vertical-align:top; margin:4px"/></a>
   <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" height="40" style="vertical-align:top; margin:4px"></a>
-  <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/pytorch.png" alt="PyTorch" height="40" style="vertical-align:top; margin:4px"></a>
   <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" height="40" style="vertical-align:top; margin:4px"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniegeorgejohn)
+<a href="linkedin.com/in/daniegeorgejohn"><img src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)" alt="VS Code" height="40" style="vertical-align:top; margin:4px"></a>
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
