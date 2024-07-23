@@ -6,16 +6,15 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DarkPhoenix616&color=blue&style=flat-square)
 
-# Hi there, I'm Danie George John 👋
-
-Welcome to my GitHub profile! I’m a passionate Machine Learning and Development enthusiast. Here’s a bit more about me:
 
 ## About Me
 
-- **Name:** Danie George John
-- **GitHub Username:** [DarkPhoenix616](https://github.com/DarkPhoenix616)
+- I am a BTech Sophomore at IIT Jodhpur
+- **GitHub** [DarkPhoenix616](https://github.com/DarkPhoenix616)
 - **Current Role:** RAID Project Member : CHAD (Code Heuristic Assessment and Debugging)
 - **Interests:** Computer Science, Machine Learning, Deep Learning, Web Development
+- 📫 How to reach me: <a href="mailto:b23ci1012@iitj.ac.in">b22ci1012@iitj.ac.in</a> <a href=""></a>
+
 
 ## GitHub Statistics
 
@@ -49,7 +48,11 @@ A project to build an AI-powered automated code review tool. It leverages machin
 
 ## Connect with Me
 
-<a href="https://www.linkedin.com/in/daniegeorgejohn/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/daniegeorgejohn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Danie George John" height="30" width="40" /></a>
+<a href="https://instagram.com/daniegeorgejohn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="DanieGeorgeJohn" height="30" width="40" /></a>
+</p>
+
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
