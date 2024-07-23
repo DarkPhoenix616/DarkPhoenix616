@@ -15,11 +15,8 @@ Welcome to my GitHub profile! I’m a passionate Machine Learning and Developmen
 
 ## Projects
 
-### [Reviebot](https://github.com/DarkPhoenix616/Reviebot)
+### [CHAD](https://github.com/DarkPhoenix616/Reviebot)
 A project to build an AI-powered automated code review tool. It leverages machine learning and deep learning principles to provide insightful code reviews.
-
-### [Titanic Survival Prediction](https://github.com/DarkPhoenix616/Titanic-Survival-Prediction)
-An analysis project using the Titanic dataset to predict survival rates. Utilizes various machine learning algorithms to improve prediction accuracy.
 
 ## Skills
 
