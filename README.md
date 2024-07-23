@@ -1,3 +1,9 @@
+![header](./profile-banner.jpg)
+
+
+<h1 align="center">Hi There👋, Danie George John</h1>
+<h3 align="center">A Machine Learning and Development Enthusiast</h3>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=DarkPhoenix616&color=blue&style=flat-square)
 
 # Hi there, I'm Danie George John 👋
@@ -43,7 +49,7 @@ A project to build an AI-powered automated code review tool. It leverages machin
 
 ## Connect with Me
 
-<a href="linkedin.com/in/daniegeorgejohn"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://www.linkedin.com/in/daniegeorgejohn/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
