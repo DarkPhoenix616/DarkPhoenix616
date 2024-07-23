@@ -1,13 +1,13 @@
 # Hi there, I'm Danie George John 👋
 
-Welcome to my GitHub profile! I’m a passionate software engineer and machine learning enthusiast. Here’s a bit more about me:
+Welcome to my GitHub profile! I’m a passionate Machine Learning and Development enthusiast. Here’s a bit more about me:
 
 ## About Me
 
 - **Name:** Danie George John
 - **GitHub Username:** [DarkPhoenix616](https://github.com/DarkPhoenix616)
-- **Current Role:** Student Guide with the Student Wellbeing Committee (SWC) at IIT Jodhpur
-- **Interests:** Computer Science, Machine Learning, Deep Learning, Java, Web Development
+- **Current Role:** RAID Project Member : CHAD (Code Heuristic Assessment and Debugging)
+- **Interests:** Computer Science, Machine Learning, Deep Learning, Web Development
 
 ## GitHub Stats
 
@@ -29,9 +29,7 @@ An analysis project using the Titanic dataset to predict survival rates. Utilize
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/danie-george-john)
-- [Twitter](https://twitter.com/DarkPhoenix616)
-- [Portfolio](https://daniegeorgejohn.com)
+- [LinkedIn](https://www.linkedin.com/in/daniegeorgejohn)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
