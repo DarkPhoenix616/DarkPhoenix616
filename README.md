@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I’m a passionate Machine Learning and Developmen
 
 ## Most Used Languages
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkPhoenix616)
+https://github-readme-stats.vercel.app/api/top-langs/?username=DarkPhoenix616
 
 ## Projects
 
