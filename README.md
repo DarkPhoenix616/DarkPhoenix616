@@ -1,4 +1,4 @@
-![header](./Banner.jpg)
+![header](./Banner.png)
 
 
 <h1 align="center">Hi There👋, Danie George John</h1>
