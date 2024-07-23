@@ -13,6 +13,10 @@ Welcome to my GitHub profile! I’m a passionate Machine Learning and Developmen
 
 ![Danie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkPhoenix616&show_icons=true&hide_title=false&hide=prs&count_private=true&include_all_commits=true&theme=dark)
 
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkPhoenix616&layout=compact&theme=dark)
+
 ## Projects
 
 ### [CHAD](https://github.com/DarkPhoenix616/Reviebot)
