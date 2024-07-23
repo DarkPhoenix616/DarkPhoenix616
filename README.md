@@ -1,7 +1,7 @@
 ![header](./Banner.png)
 
 
-<h1 align="center">Hi There👋, Danie George John</h1>
+<h1 align="center">Hi There👋, I am Danie George John</h1>
 <h3 align="center">A Machine Learning and Development Enthusiast</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DarkPhoenix616&color=blue&style=flat-square)
