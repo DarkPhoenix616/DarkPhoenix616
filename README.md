@@ -23,7 +23,7 @@
 
 ## Projects
 
-### [CHAD](https://github.com/DarkPhoenix616/Reviebot)
+### [CHAD](https://github.com/captainhaddock18/ReviewBot-Website)
 A project to build an AI-powered automated code review tool. It leverages machine learning and deep learning principles to provide insightful code reviews.
 
 ## Skills
