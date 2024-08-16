@@ -13,7 +13,7 @@
 - **LinkedIn:** [Danie George John](https://linkedin.com/in/daniegeorgejohn)
 - **Current Role:** RAID Project Member : CHAD (Code Heuristic Assessment and Debugging)
 - **Interests:** Computer Science, Machine Learning, Deep Learning, Web Development
-- 📫 How to reach me: <a href="mailto:b23ci1012@iitj.ac.in">b23ci1012@iitj.ac.in</a> <a href=""></a>
+- 📫 How to reach me: <a href="mailto:b23es1012@iitj.ac.in">b23es1012@iitj.ac.in</a> <a href=""></a>
 
 
 ## GitHub Statistics
