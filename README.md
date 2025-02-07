@@ -23,7 +23,7 @@
 
 ## Projects
 
-### [SmartMoney]([https://github.com/captainhaddock18/ReviewBot-Website](https://github.com/legend4137/SmartMoney))
+### [SmartMoney](https://github.com/legend4137/SmartMoney)
 Developed a comprehensive financial management tool integrating the Gemini API to provide real-time financial insights and personalized recommendations.
 
 ## Skills
