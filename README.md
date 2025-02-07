@@ -11,7 +11,7 @@
 
 - I am a BTech Sophomore at IIT Jodhpur
 - **LinkedIn:** [Danie George John](https://linkedin.com/in/daniegeorgejohn)
-- **Current Role:** RAID Project Member : CHAD (Code Heuristic Assessment and Debugging)
+- **Current Role:** Developing IITJ Institute App as a part of the DevlUp Labs WoC'25
 - **Interests:** Computer Science, Machine Learning, Deep Learning, Web Development
 - 📫 How to reach me: <a href="mailto:b23es1012@iitj.ac.in">b23es1012@iitj.ac.in</a> <a href=""></a>
 
@@ -23,8 +23,8 @@
 
 ## Projects
 
-### [CHAD](https://github.com/captainhaddock18/ReviewBot-Website)
-A project to build an AI-powered automated code review tool. It leverages machine learning and deep learning principles to provide insightful code reviews.
+### [SmartMoney]([https://github.com/captainhaddock18/ReviewBot-Website](https://github.com/legend4137/SmartMoney))
+Developed a comprehensive financial management tool integrating the Gemini API to provide real-time financial insights and personalized recommendations.
 
 ## Skills
 
