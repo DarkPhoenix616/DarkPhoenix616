@@ -13,7 +13,8 @@
 - **LinkedIn:** [Danie George John](https://linkedin.com/in/daniegeorgejohn)
 - **Current Role:** Developing IITJ Institute App as a part of the DevlUp Labs WoC'25
 - **Interests:** Computer Science, Machine Learning, Deep Learning, Web Development
-- 📫 How to reach me: <a href="mailto:b23es1012@iitj.ac.in">b23es1012@iitj.ac.in</a> <a href=""></a>
+- **Checkout my Portfolio Website:** https://portfolio-darkphoenix616s-projects.vercel.app/
+- 📫 How to reach me: <a href="mailto:b23es1012@iitj.ac.in">daniegeorgejohn@gmail.com</a> <a href=""></a>
 
 
 ## GitHub Statistics
