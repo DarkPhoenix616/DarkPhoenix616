@@ -23,6 +23,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkPhoenix616&show=reviews,prs&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkPhoenix616)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nayan-kute21&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+
 ## Projects
 
 ### [SmartMoney](https://github.com/legend4137/SmartMoney)
