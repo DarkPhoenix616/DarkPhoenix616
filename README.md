@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi There👋, I am Danie George John</h1>
-<h3 align="center">A Machine Learning and Development Enthusiast</h3>
+<h3 align="center">Backend Developer</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DarkPhoenix616&color=blue&style=flat-square)
 
@@ -13,14 +13,13 @@
 - Selected as a Software Development Engineering Intern (Summer 2026) at Pattern.
 - **LinkedIn:** [Danie George John](https://linkedin.com/in/daniegeorgejohn)
 - **Current Role:** Developing IITJ Institute App as a part of the DevlUp Labs WoC'25
-- **Interests:** Computer Science, Machine Learning, Deep Learning, Web Development
+- **Interests:** Backend Development, ML, DL
 - **Contact:** [Portfolio](https://portfolio-ten-opal-22.vercel.app/)
 
 
 ## GitHub Statistics
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DarkPhoenix616?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-
 
 
 
