@@ -14,22 +14,15 @@
 - **LinkedIn:** [Danie George John](https://linkedin.com/in/daniegeorgejohn)
 - **Current Role:** Developing IITJ Institute App as a part of the DevlUp Labs WoC'25
 - **Interests:** Computer Science, Machine Learning, Deep Learning, Web Development
-- **Checkout my Portfolio Website:** https://portfolio-ten-opal-22.vercel.app/
-- 📫 How to reach me: <a href="mailto:b23es1012@iitj.ac.in">daniegeorgejohn@gmail.com</a> <a href=""></a>
+- **Contact:** [Portfolio](https://portfolio-ten-opal-22.vercel.app/)
 
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkPhoenix616&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkPhoenix616&layout=compact&theme=radical)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DarkPhoenix616?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkPhoenix616&theme=radical)
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=DarkPhoenix616&theme=github)
 
-<!-- Useful quick badges -->
-![Followers](https://img.shields.io/github/followers/DarkPhoenix616?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/DarkPhoenix616?style=social)
-![Repo Size](https://img.shields.io/github/repo-size/DarkPhoenix616)
+
 
 ## Projects
 
