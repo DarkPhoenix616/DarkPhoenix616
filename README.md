@@ -20,11 +20,16 @@
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkPhoenix616&show=reviews,prs&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkPhoenix616)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkPhoenix616&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkPhoenix616&layout=compact&theme=radical)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nayan-kute21&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkPhoenix616&theme=radical)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=DarkPhoenix616&theme=github)
+
+<!-- Useful quick badges -->
+![Followers](https://img.shields.io/github/followers/DarkPhoenix616?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/DarkPhoenix616?style=social)
+![Repo Size](https://img.shields.io/github/repo-size/DarkPhoenix616)
 
 ## Projects
 
