@@ -10,7 +10,7 @@
 ## About Me
 
 - I am a Pre-Final year B.Tech Student at IIT Jodhpur
-- Selected as a Software Development Engineering Intern (Summer 2026) at Pattern.
+- Working as a Software Engineer Intern at Pattern.
 - **LinkedIn:** [Danie George John](https://linkedin.com/in/daniegeorgejohn)
 - **Current Role:** Developing IITJ Institute App as a part of the DevlUp Labs WoC'25
 - **Interests:** Backend Development, ML, DL
