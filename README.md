@@ -12,7 +12,7 @@
 - I am a Pre-Final year B.Tech Student at IIT Jodhpur
 - Working as a Software Engineer Intern at Pattern.
 - **LinkedIn:** [Danie George John](https://linkedin.com/in/daniegeorgejohn)
-- **Current Role:** Developing IITJ Institute App as a part of the DevlUp Labs WoC'25
+- **Current Hobby:** Learning Ruby on Rails and trying to build a project using the same
 - **Interests:** Backend Development, ML, DL
 - **Contact:** [Portfolio](https://portfolio-ten-opal-22.vercel.app/)
 
