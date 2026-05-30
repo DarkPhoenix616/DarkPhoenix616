@@ -20,6 +20,8 @@
 ## GitHub Statistics
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DarkPhoenix616?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+![](https://github.com/DarkPhoenix616/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/DarkPhoenix616/github-stats/blob/generated/languages.svg#gh-light-mode-only)
 
 
 
