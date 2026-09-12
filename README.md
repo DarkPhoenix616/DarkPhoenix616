@@ -9,7 +9,7 @@
 
 ## About Me
 
-- I am a Pre-Final year B.Tech Student at IIT Jodhpur
+- I am a Final year B.Tech Student at IIT Jodhpur
 - Worked as a Software Engineer Intern at Pattern.
 - **LinkedIn:** [Danie George John](https://linkedin.com/in/daniegeorgejohn)
 - **Current Hobby:** Learning Ruby on Rails and trying to build a project using the same
